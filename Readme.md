@@ -1,39 +1,14 @@
-# Zadanie 1: Linear regression
+# Linear regression
 
-🚧 **3.0 wym1** [Link do commita 1]()
+**Kod:** [plik](https://github.com/zezuul/ml25/blob/main/025_Exercises.ipynb)
 
-🚧 **3.5 wym2** [Link do commita 1]()
+# Clustering
 
-🚧 **4.0 wym3** [Link do commita 2]()
+**Kod:** [plik](https://github.com/zezuul/ml25/blob/main/clustering/047Clustering_Exercises.ipynb)
 
-🚧 **4.5 wym4** [Link do commita 2]()
+# Trees
 
-🚧 **5.0 wym5** [Link do commita 2]()
-
-**Kod:** [folder]()
-
-
----
-
-✅ done
-❌ not done
-🚧 WIP
-
----
-
-# Zadanie : template
-
-🚧 **3.0 wym1** [Link do commita 1]()
-
-🚧 **3.5 wym2** [Link do commita 1]()
-
-🚧 **4.0 wym3** [Link do commita 2]()
-
-🚧 **4.5 wym4** [Link do commita 2]()
-
-🚧 **5.0 wym5** [Link do commita 2]()
-
-**Kod:** [folder]()
+**Kod:** [plik](https://github.com/zezuul/ml25/blob/main/trees/055Decision_trees_Exercises.ipynb)
 
 #####
 
