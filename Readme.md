@@ -18,6 +18,10 @@
 
 **Kod:** [plik](https://github.com/zezuul/ml25/blob/main/ensemble/075Ensemble_Exercises.ipynb)
 
+# NLP
+
+**Kod:** [plik](https://github.com/zezuul/ml25/blob/main/nlp/106_NLP_Exercises.ipynb)
+
 #####
 
 python3 -m venv ml_venv
