@@ -14,6 +14,10 @@
 
 **Kod:** [plik](https://github.com/zezuul/ml25/blob/main/svm/065_SVM_Exercises.ipynb)
 
+# Ensemble
+
+**Kod:** [plik](https://github.com/zezuul/ml25/blob/main/ensemble/075Ensemble_Exercises.ipynb)
+
 #####
 
 python3 -m venv ml_venv
