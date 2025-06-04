@@ -10,6 +10,10 @@
 
 **Kod:** [plik](https://github.com/zezuul/ml25/blob/main/trees/055Decision_trees_Exercises.ipynb)
 
+# SVM
+
+**Kod:** [plik](https://github.com/zezuul/ml25/blob/main/svm/065_SVM_Exercises.ipynb)
+
 #####
 
 python3 -m venv ml_venv
